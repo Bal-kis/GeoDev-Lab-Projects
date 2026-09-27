@@ -37,4 +37,4 @@ No mixed values found.
 - **Format:** Geopackage.
 - **CRS**: EPSG: 32631
 
-- **Status:** Week 3 completed. Data acquisition in month 1 summary, see [month-1-summary](month-1-summary)
+- **Status:** Week 3 completed. Data acquisition in month 1 summary, see [month-1-summary](month-1-summary.md)
