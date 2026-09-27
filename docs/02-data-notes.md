@@ -35,3 +35,5 @@ Author: Balikis Abdulkareem.
 
 ## Known Issue
 - QuickOSM's layer extent searches bounding rectangle of the boundary layer, not its true shape and there are more NULL values for the school names.
+
+**Status:** Week 1 completed. Data acquisition in week 2, see [03-data-preparation.md](03-data-preparation.md)
