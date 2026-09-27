@@ -13,4 +13,4 @@ schools in Kwara, Nigeria.
 - Source: GRID3/ NGA Operational wards. [source link](https://data.grid3.org)
 - OpenStreetMap via QuickOSM in Qgis.
 
-**Status:** Week 1 completed. Data acquisition in week 2, see [02-data-notes.md]()
+**Status:** Week 1 completed. Data acquisition in week 2, see [02-data-notes.md](02-data-notes.md)
