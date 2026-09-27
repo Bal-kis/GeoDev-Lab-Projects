@@ -33,7 +33,7 @@ No mixed values found.
 -  No major problems encountered. Both layers are loaded aand reprojected cleanly.
 
 ## 5. Analysis-ready output
-- **File**:kwara_school_projects/data/processed/wards_school_count.gpkg
+- **File**:[wards_school_count.gpkg](wards_school_count.gpkg)
 - **Format:** Geopackage.
 - **CRS**: EPSG: 32631
 
