@@ -35,3 +35,8 @@ The data is not in this repository. Every source is linked in the project, so an
 Balikis Abdulkareem - GeoDev Lab Africa.
 
 Learn. Build. Collaborate. Transform.
+
+
+# Month 2: development environment and early python.
+
+>Week 5: set up python, VS code and the terminal. hello.py runs.
