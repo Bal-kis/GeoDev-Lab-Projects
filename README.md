@@ -39,4 +39,5 @@ Learn. Build. Collaborate. Transform.
 
 # Month 2: development environment and early python.
 
->Week 5: set up python, VS code and the terminal. hello.py runs.
+- [x] Week 5: set up python, VS code and the terminal. hello.py runs.
+- [x] Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
