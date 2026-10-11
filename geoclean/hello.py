@@ -1,1 +1,1 @@
-
+print("My setup works")
