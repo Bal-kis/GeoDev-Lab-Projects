@@ -41,3 +41,4 @@ Learn. Build. Collaborate. Transform.
 
 - [x] Week 5: set up python, VS code and the terminal. hello.py runs.
 - [x] Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+- [x] Week 7: analyse.py read wards.csv, converts each area and classifies each ward.
