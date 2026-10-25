@@ -1,0 +1,194 @@
+fid,country,iso3,state,statecode,lga,lga_alt_na,ward,ward_alt_n,ward_v1_gr,ward_in_gr,multipart_,source,date,area_sqkm,name_count,coalesce
+1,Nigeria,NGA,Kwara,KW,Asa,,Aboto/Odoode,"Aboto-Odo-Ode, Aboto, Odo-Ode/Aboto",,1,1,CIESIN,2026-06-30,106,,0
+2,Nigeria,NGA,Kwara,KW,Asa,,Afon,,,1,1,CIESIN,2026-06-30,73,,0
+3,Nigeria,NGA,Kwara,KW,Asa,,Agbona/Fata,"Elebue/Agbona/Fata, Agbona/Elebue Fata",,1,1,CIESIN,2026-06-30,129,,0
+4,Nigeria,NGA,Kwara,KW,Asa,,Awe/Orimaro,"Elebue Awe/Orimaro, Adigbongbo/Awe/Orimaro, Awe/Orimaro/Adigbongbo",,1,1,CIESIN,2026-06-30,78,,0
+5,Nigeria,NGA,Kwara,KW,Asa,,Budo-Egba,Budo Egba,,1,1,CIESIN,2026-06-30,67,,0
+6,Nigeria,NGA,Kwara,KW,Asa,,Efue/Berikodo,Efue/Berikodi,,1,1,CIESIN,2026-06-30,56,,0
+7,Nigeria,NGA,Kwara,KW,Asa,,Gambar/Ayekale,"Gambari/Ayekale, Gambari Ayekale, Gambari/Aiyekale",,1,1,CIESIN,2026-06-30,65,,0
+8,Nigeria,NGA,Kwara,KW,Asa,,Ila- Oja,"Ila Oja, Ila-Oja",,1,1,CIESIN,2026-06-30,84,,0
+9,Nigeria,NGA,Kwara,KW,Asa,,Laduba,"Ago-Oja/Oshin/Sapati/Laduba, Ago/Oja/Oshin/Sapati/Laduba",,1,1,CIESIN,2026-06-30,47,,0
+10,Nigeria,NGA,Kwara,KW,Asa,,Ogbondoroko,"Ogbondoroko Reke, Ogbondoroko/Reke",,1,1,CIESIN,2026-06-30,32,,0
+11,Nigeria,NGA,Kwara,KW,Asa,,Ogele,,,1,1,CIESIN,2026-06-30,104,,0
+12,Nigeria,NGA,Kwara,KW,Asa,,Okeso,"Okeso/Afeyin, Okesho",,1,1,CIESIN,2026-06-30,12,,0
+13,Nigeria,NGA,Kwara,KW,Asa,,Okeweru/Yow II,"Okeweru Yowere 2, Okeweru/Yowere 2, Yowere 11/Okeweru, Okeweru/Yowere ll",,1,1,CIESIN,2026-06-30,103,,0
+14,Nigeria,NGA,Kwara,KW,Asa,,Onire/Odegiwa,"Onire/Odegiwa/Alapa, Alapa/Onire/Odegiwa",,1,1,CIESIN,2026-06-30,144,,0
+15,Nigeria,NGA,Kwara,KW,Asa,,Otte/Ballah,"Otte/Balla, Ballah/Otte",,1,1,CIESIN,2026-06-30,80,1,1
+16,Nigeria,NGA,Kwara,KW,Asa,,Owode/Gbogun,,,1,1,CIESIN,2026-06-30,87,,0
+17,Nigeria,NGA,Kwara,KW,Asa,,Sosoki/Yowere,"Sosoki/Yowere 1, Yowere/Sosoki",,1,1,CIESIN,2026-06-30,49,,0
+18,Nigeria,NGA,Kwara,KW,Baruten,,Bode Babane,Bode/Babane,,1,1,CIESIN,2026-06-30,531,6,6
+19,Nigeria,NGA,Kwara,KW,Baruten,,Boriya/Shiya,,,1,1,CIESIN,2026-06-30,472,1,1
+20,Nigeria,NGA,Kwara,KW,Baruten,,Bwen/Kiyoru,Kiyoru/Bwen,,1,1,CIESIN,2026-06-30,1209,3,3
+21,Nigeria,NGA,Kwara,KW,Baruten,,Gwanara,,,1,1,CIESIN,2026-06-30,308,,0
+22,Nigeria,NGA,Kwara,KW,Baruten,,Ilesha,IIesha,,1,1,CIESIN,2026-06-30,290,,0
+23,Nigeria,NGA,Kwara,KW,Baruten,,Kenu/Tabera,Kenu/Taberu,,1,1,CIESIN,2026-06-30,519,8,8
+24,Nigeria,NGA,Kwara,KW,Baruten,,Kpura/Yakiru,"Kpaura/Yakiru, Kpura/Yakira",,1,1,CIESIN,2026-06-30,407,2,2
+25,Nigeria,NGA,Kwara,KW,Baruten,,Okuta,,,1,1,CIESIN,2026-06-30,670,,0
+26,Nigeria,NGA,Kwara,KW,Baruten,,Sinawu/Tumbiya,"Shinawu/Tunbuyan, Shinau/Tumuyan, Shinau/Tumbuyan, Shinawu/Tumbuya, Shinawu tumbuyan, Shinawu Tumbwe",,1,1,CIESIN,2026-06-30,444,,0
+27,Nigeria,NGA,Kwara,KW,Baruten,,Yashikira I,Yashikira,,1,1,CIESIN,2026-06-30,2193,2,2
+28,Nigeria,NGA,Kwara,KW,Baruten,,Yashikira II,"Gure/Giwasoro, Gure/Giwasorio, Gure/Gwasoro",,1,1,CIESIN,2026-06-30,2085,17,17
+29,Nigeria,NGA,Kwara,KW,Edu,,Lafiagi I,Lafiaji 1,,1,1,CIESIN,2026-06-30,42,,0
+30,Nigeria,NGA,Kwara,KW,Edu,,Lafiagi II,"Lafiaji 2, Lafiagi 11",,1,1,CIESIN,2026-06-30,189,,0
+31,Nigeria,NGA,Kwara,KW,Edu,,Lafiagi III,"Lafiagi 111, Lafiaji 3",,1,1,CIESIN,2026-06-30,632,2,2
+32,Nigeria,NGA,Kwara,KW,Edu,,Lafiagi IV,"Lafiagi 1 V, Lafiaji 4",,1,1,CIESIN,2026-06-30,425,1,1
+33,Nigeria,NGA,Kwara,KW,Edu,,Tsaragi I,,,1,1,CIESIN,2026-06-30,235,,0
+34,Nigeria,NGA,Kwara,KW,Edu,,Tsaragi II,Tsaragi 11,,1,1,CIESIN,2026-06-30,330,,0
+35,Nigeria,NGA,Kwara,KW,Edu,,Tsaragi III,Tsaragi 111,,1,1,CIESIN,2026-06-30,176,,0
+36,Nigeria,NGA,Kwara,KW,Edu,,Tsonga I,"Shonga 1, Shongai 1",,1,1,CIESIN,2026-06-30,48,,0
+37,Nigeria,NGA,Kwara,KW,Edu,,Tsonga II,"Shonga 2, Shongai 2, Tsonga 11",,1,1,CIESIN,2026-06-30,208,,0
+38,Nigeria,NGA,Kwara,KW,Edu,,Tsonga III,"Shongai 3, Shonga 3, Tsonga 111",,1,1,CIESIN,2026-06-30,308,,0
+39,Nigeria,NGA,Kwara,KW,Ekiti,,Eruku,Eruku 1,,1,1,CIESIN,2026-06-30,151,,0
+40,Nigeria,NGA,Kwara,KW,Ekiti,,Isapa,,,1,1,CIESIN,2026-06-30,52,,0
+41,Nigeria,NGA,Kwara,KW,Ekiti,,Koro,,,1,1,CIESIN,2026-06-30,33,,0
+42,Nigeria,NGA,Kwara,KW,Ekiti,,Obbo-Aiyegunle I,"Obbo Aiyegunle 1, Obbo-Aiyeggunle 1, Obbo Ayegunle 1",,1,1,CIESIN,2026-06-30,4,,0
+43,Nigeria,NGA,Kwara,KW,Ekiti,,Obbo-Aiyegunle II,"Obbo-Aiyeggunle 11, Obbo Aiyegunle 2",,1,1,CIESIN,2026-06-30,17,,0
+44,Nigeria,NGA,Kwara,KW,Ekiti,,Obbo-Ile,Obbo Ile/Ora,,1,1,CIESIN,2026-06-30,85,,0
+45,Nigeria,NGA,Kwara,KW,Ekiti,,Oke-Opin/Etan,,,1,1,CIESIN,2026-06-30,26,,0
+46,Nigeria,NGA,Kwara,KW,Ekiti,,Opin,,,1,1,CIESIN,2026-06-30,91,,0
+47,Nigeria,NGA,Kwara,KW,Ekiti,,Osi I,,,1,1,CIESIN,2026-06-30,14,,0
+48,Nigeria,NGA,Kwara,KW,Ekiti,,Osi II,Osi 11,,1,1,CIESIN,2026-06-30,2,,0
+49,Nigeria,NGA,Kwara,KW,Ifelodun,,Agwijin,Agunjin,,1,1,CIESIN,2026-06-30,104,,0
+50,Nigeria,NGA,Kwara,KW,Ifelodun,,Idofian I,Fian 1,,1,1,CIESIN,2026-06-30,58,,0
+51,Nigeria,NGA,Kwara,KW,Ifelodun,,Idofian II,Idofian 11,,1,1,CIESIN,2026-06-30,78,2,2
+52,Nigeria,NGA,Kwara,KW,Ifelodun,,Igbaja I,,,1,1,CIESIN,2026-06-30,34,,0
+53,Nigeria,NGA,Kwara,KW,Ifelodun,,Igbaja II,Igbaja 11,,1,2,CIESIN,2026-06-30,181,,0
+54,Nigeria,NGA,Kwara,KW,Ifelodun,,Igbaja III,Igbaja 111,,1,2,CIESIN,2026-06-30,138,,0
+55,Nigeria,NGA,Kwara,KW,Ifelodun,,Ile-Ire,"Ile Ire, Ile-Ere",,1,1,CIESIN,2026-06-30,941,,0
+56,Nigeria,NGA,Kwara,KW,Ifelodun,,Oke-Ode I,Oke Ode 1,,1,1,CIESIN,2026-06-30,36,,0
+57,Nigeria,NGA,Kwara,KW,Ifelodun,,Oke-Ode II,"Oke Ode 2, Oke-Ode 11",,1,1,CIESIN,2026-06-30,323,,0
+58,Nigeria,NGA,Kwara,KW,Ifelodun,,Oke-Ode III,"Oke Ode 3, Oke-Ode 111",,1,1,CIESIN,2026-06-30,131,,0
+59,Nigeria,NGA,Kwara,KW,Ifelodun,,Omupo,Omupo 1,,1,1,CIESIN,2026-06-30,198,7,7
+60,Nigeria,NGA,Kwara,KW,Ifelodun,,Ora,,,1,1,CIESIN,2026-06-30,125,,0
+61,Nigeria,NGA,Kwara,KW,Ifelodun,,Oro-Ago,Oro Ago,,1,1,CIESIN,2026-06-30,375,,0
+62,Nigeria,NGA,Kwara,KW,Ifelodun,,Share I,,,1,1,CIESIN,2026-06-30,10,,0
+63,Nigeria,NGA,Kwara,KW,Ifelodun,,Share II,Share 11,,1,1,CIESIN,2026-06-30,190,,0
+64,Nigeria,NGA,Kwara,KW,Ifelodun,,Share III,Share 111,,1,1,CIESIN,2026-06-30,13,,0
+65,Nigeria,NGA,Kwara,KW,Ifelodun,,Share IV,Share 1 V,,1,1,CIESIN,2026-06-30,35,,0
+66,Nigeria,NGA,Kwara,KW,Ifelodun,,Share V,,,1,1,CIESIN,2026-06-30,253,,0
+67,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Agbeyangi/Gbadamu,"Agbeyangi, Agbeyangi/Abadamu, Agbeyangi/Gbadamu/Osin",,1,1,CIESIN,2026-06-30,128,,0
+68,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Apado,,,1,1,CIESIN,2026-06-30,104,,0
+69,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Are I,Magaji Are 1,,1,1,CIESIN,2026-06-30,1,,0
+70,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Are II,"Magaji Are 2, Magaji Are 11",,1,1,CIESIN,2026-06-30,9,7,7
+71,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Gambari I,,,1,1,CIESIN,2026-06-30,0,,0
+72,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Gambari II,"Bologun Gambari 11, Balogun Gambari 11",,1,1,CIESIN,2026-06-30,1,,0
+73,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Ibagun,,,1,2,CIESIN,2026-06-30,19,2,2
+74,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Iponrin,Iporin,,1,1,CIESIN,2026-06-30,67,,0
+75,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Marafa/Pepele,Marafa/Pepete,,1,1,CIESIN,2026-06-30,106,,0
+76,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Maya/Ileapa,"Maya Ile Apa, Maya/Ile-Apa, Maya/Ile Apa",,1,1,CIESIN,2026-06-30,73,1,1
+77,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Oke Oyi/Oke-Ose/Alalubosa,"Oke Oyi/Oke Ose/Alalubosa, Oke-Oyi/Oke Ose, Oke Oyi/Oke Ose",,1,1,CIESIN,2026-06-30,97,,0
+78,Nigeria,NGA,Kwara,KW,Ilorin East,Ilorin-East,Zango I,Zango,,1,1,CIESIN,2026-06-30,1,,0
+79,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Akanbi I,Akanbi -1,,1,1,CIESIN,2026-06-30,42,,0
+80,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Akanbi II,Akanbi -11,,1,1,CIESIN,2026-06-30,44,,0
+81,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Akanbi III,Akanbi -111,,1,1,CIESIN,2026-06-30,21,8,8
+82,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Akanbi IV,Akanbi -1 V,,1,1,CIESIN,2026-06-30,67,6,6
+83,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Akanbi V,Akanbi -V,,1,1,CIESIN,2026-06-30,78,5,5
+84,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Balogun Fulani I,Balogun-Fulani 1,,1,1,CIESIN,2026-06-30,0,,0
+85,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Balogun Fulani II,Balogun-Fulani 11,,1,1,CIESIN,2026-06-30,0,,0
+86,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Balogun Fulani III,Balogun-Fulani 111,,1,1,CIESIN,2026-06-30,1,,0
+87,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Oka-Ogun,"Oke-Ogun, Oke Ogun",,1,1,CIESIN,2026-06-30,0,,0
+88,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Okaka I,,,1,1,CIESIN,2026-06-30,1,,0
+89,Nigeria,NGA,Kwara,KW,Ilorin South,Ilorin-South,Okaka II,Okaka 11,,1,1,CIESIN,2026-06-30,0,,0
+90,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Adewole,,,1,1,CIESIN,2026-06-30,16,2,2
+91,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Ajikobi,,,1,1,CIESIN,2026-06-30,1,,0
+92,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Alanamu,Balogun Alanamu Central,,1,1,CIESIN,2026-06-30,2,,0
+93,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Baboko,,,1,1,CIESIN,2026-06-30,1,2,2
+94,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Badari,,,1,1,CIESIN,2026-06-30,1,1,1
+95,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,M/Ngeri,"Magaji Geri, Magaji Ngeri, Magajingeri",,1,3,CIESIN,2026-06-30,3,,0
+96,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Ogidi,,,1,1,CIESIN,2026-06-30,1,1,1
+97,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Oju-Ekun,"Zarumi/Ojueku, Ojuekun/Zarumi",,1,1,CIESIN,2026-06-30,3,1,1
+98,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Oko-Erin,"Oko Erin, Okoerin",,1,1,CIESIN,2026-06-30,26,7,7
+99,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Oloje,,,1,1,CIESIN,2026-06-30,4,,0
+100,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Ubandawaki,,,1,1,CIESIN,2026-06-30,10,1,1
+101,Nigeria,NGA,Kwara,KW,Ilorin West,Ilorin-West,Wara/Osin/Egbejila,"Warrah/Egbe Jila/Oshin, Warah/Osin/Egbejila",,1,1,CIESIN,2026-06-30,81,2,2
+102,Nigeria,NGA,Kwara,KW,Irepodun,,Ajase I,"Ajasse 1, Ajase Ipo 1",,1,1,CIESIN,2026-06-30,167,1,1
+103,Nigeria,NGA,Kwara,KW,Irepodun,,Ajase II,"Ajasse 2, Ajase Ipo 11",,1,1,CIESIN,2026-06-30,156,,0
+104,Nigeria,NGA,Kwara,KW,Irepodun,,Aran,Omu-Aran 1 ( Aran ),,1,2,CIESIN,2026-06-30,2,,0
+105,Nigeria,NGA,Kwara,KW,Irepodun,,Arandun,,,1,1,CIESIN,2026-06-30,108,,0
+106,Nigeria,NGA,Kwara,KW,Irepodun,,Esie-Ijan,"Esie Ijan, Esie/Ijan",,1,1,CIESIN,2026-06-30,51,,0
+107,Nigeria,NGA,Kwara,KW,Irepodun,,Ifaja,Omu-Aran 111 ( Ifaja ),,1,1,CIESIN,2026-06-30,12,,0
+108,Nigeria,NGA,Kwara,KW,Irepodun,,Ihaye,Omu-Aran 11 ( Ihaye ),,1,1,CIESIN,2026-06-30,44,,0
+109,Nigeria,NGA,Kwara,KW,Irepodun,,Ipetu/Rore/Aran Orin,"Ipetu/Rore/Aran-Orin, Ira",,1,1,CIESIN,2026-06-30,80,,0
+110,Nigeria,NGA,Kwara,KW,Irepodun,,Oko,,,1,1,CIESIN,2026-06-30,41,,0
+111,Nigeria,NGA,Kwara,KW,Irepodun,,Oro I,,,1,1,CIESIN,2026-06-30,76,,0
+112,Nigeria,NGA,Kwara,KW,Irepodun,,Oro II,Oro 11,,1,1,CIESIN,2026-06-30,35,,0
+113,Nigeria,NGA,Kwara,KW,Isin,Osin,Alla,,,1,1,CIESIN,2026-06-30,48,,0
+114,Nigeria,NGA,Kwara,KW,Isin,Osin,Edidi,,,1,1,CIESIN,2026-06-30,17,,0
+115,Nigeria,NGA,Kwara,KW,Isin,Osin,Ijara,Ijara Isin,,1,1,CIESIN,2026-06-30,24,,0
+116,Nigeria,NGA,Kwara,KW,Isin,Osin,Isanlu I,Isanlu-Isin 1,,1,1,CIESIN,2026-06-30,98,,0
+117,Nigeria,NGA,Kwara,KW,Isin,Osin,Isanlu II,"Isanlu 11, Isalu-Isin 2, Isanlu Isin 2, Isanlu ll",,1,1,CIESIN,2026-06-30,30,,0
+118,Nigeria,NGA,Kwara,KW,Isin,Osin,Iwo,,,1,1,CIESIN,2026-06-30,21,,0
+119,Nigeria,NGA,Kwara,KW,Isin,Osin,Oke Aba,Oke-Aba,,1,1,CIESIN,2026-06-30,77,,0
+120,Nigeria,NGA,Kwara,KW,Isin,Osin,Oke Onigbin,Oke-Onigbin,,1,1,CIESIN,2026-06-30,58,,0
+121,Nigeria,NGA,Kwara,KW,Isin,Osin,Olla,,,1,1,CIESIN,2026-06-30,56,,0
+122,Nigeria,NGA,Kwara,KW,Isin,Osin,Owu,"Owu-Isin, Owu Isin",,1,1,CIESIN,2026-06-30,31,,0
+123,Nigeria,NGA,Kwara,KW,Isin,Osin,Sabaja/Pama/Oba,"Sabaji Oba Pamo, Pamo/Oba/Sabaja, Sabaja/Pamo, Sabaja/Pamo/Oba, Pamo/ Oba/ Sabaja, Pamo/ Oba /Sabaja",,1,1,CIESIN,2026-06-30,27,,0
+124,Nigeria,NGA,Kwara,KW,Kaiama,,Adena,,,1,1,CIESIN,2026-06-30,1815,,0
+125,Nigeria,NGA,Kwara,KW,Kaiama,,Bani,Banni,,1,1,CIESIN,2026-06-30,1149,,0
+126,Nigeria,NGA,Kwara,KW,Kaiama,,Gwanabe I,,,1,1,CIESIN,2026-06-30,1816,,0
+127,Nigeria,NGA,Kwara,KW,Kaiama,,Gwanabe II,Gwanabe 11,,1,1,CIESIN,2026-06-30,313,,0
+128,Nigeria,NGA,Kwara,KW,Kaiama,,Gwaria,Gwari A ( Gwaria ),,1,1,CIESIN,2026-06-30,968,,0
+129,Nigeria,NGA,Kwara,KW,Kaiama,,Kaiama I,,,1,1,CIESIN,2026-06-30,28,,0
+130,Nigeria,NGA,Kwara,KW,Kaiama,,Kaiama II,Kaiama 11,,1,1,CIESIN,2026-06-30,12,,0
+131,Nigeria,NGA,Kwara,KW,Kaiama,,Kaiama III,Kaiama 111,,1,1,CIESIN,2026-06-30,7,,0
+132,Nigeria,NGA,Kwara,KW,Kaiama,,Kemaji,Kemanji,,1,1,CIESIN,2026-06-30,633,,0
+133,Nigeria,NGA,Kwara,KW,Kaiama,,Wojibe,Wajibe,,1,1,CIESIN,2026-06-30,583,,0
+134,Nigeria,NGA,Kwara,KW,Moro,,Abati Alara,Abati/Alara,,1,1,CIESIN,2026-06-30,48,1,1
+135,Nigeria,NGA,Kwara,KW,Moro,,Ajanaku/Malete,"Ajanaku, Ajannaku",,1,1,CIESIN,2026-06-30,69,,0
+136,Nigeria,NGA,Kwara,KW,Moro,,Arobadi,,,1,1,CIESIN,2026-06-30,130,,0
+137,Nigeria,NGA,Kwara,KW,Moro,,Babadudu,,,1,1,CIESIN,2026-06-30,111,,0
+138,Nigeria,NGA,Kwara,KW,Moro,,Bode Saadu,"Bode-Saadu, Bode-Assdu",,1,1,CIESIN,2026-06-30,177,,0
+139,Nigeria,NGA,Kwara,KW,Moro,,Egidogari,Ejidongari,,1,1,CIESIN,2026-06-30,456,,0
+140,Nigeria,NGA,Kwara,KW,Moro,,Jebba,,,1,1,CIESIN,2026-06-30,199,,0
+141,Nigeria,NGA,Kwara,KW,Moro,,Jeunkunu,"Logun/Jehunkunnu, Jehunkunu, Jehunkunnu",,1,1,CIESIN,2026-06-30,407,,0
+142,Nigeria,NGA,Kwara,KW,Moro,,Lanwa,,,1,1,CIESIN,2026-06-30,168,,0
+143,Nigeria,NGA,Kwara,KW,Moro,,Magida,Megida,,1,1,CIESIN,2026-06-30,251,,0
+144,Nigeria,NGA,Kwara,KW,Moro,,Malete,Malete/Gbugudu,,1,1,CIESIN,2026-06-30,65,,0
+145,Nigeria,NGA,Kwara,KW,Moro,,Okemi,,,1,1,CIESIN,2026-06-30,120,,0
+146,Nigeria,NGA,Kwara,KW,Moro,,Okutala,,,1,1,CIESIN,2026-06-30,193,,0
+147,Nigeria,NGA,Kwara,KW,Moro,,Oloru,,,1,1,CIESIN,2026-06-30,96,,0
+148,Nigeria,NGA,Kwara,KW,Moro,,Pakuma,"Pakunmo, Pakunma, Pakunmon",,1,1,CIESIN,2026-06-30,317,,0
+149,Nigeria,NGA,Kwara,KW,Moro,,Shao,,,1,1,CIESIN,2026-06-30,37,,0
+150,Nigeria,NGA,Kwara,KW,Moro,,Womi Ayaki,"Womi/Ayaki, Wumi Ayaki",,1,1,CIESIN,2026-06-30,192,,0
+151,Nigeria,NGA,Kwara,KW,Offa,,Balogun,,,1,1,CIESIN,2026-06-30,0,,0
+152,Nigeria,NGA,Kwara,KW,Offa,,Essa A,Essa - A,,1,1,CIESIN,2026-06-30,1,,0
+153,Nigeria,NGA,Kwara,KW,Offa,,Essa B,Essa - B,,1,1,CIESIN,2026-06-30,3,,0
+154,Nigeria,NGA,Kwara,KW,Offa,,Essa C,Essa - C,,1,1,CIESIN,2026-06-30,3,,0
+155,Nigeria,NGA,Kwara,KW,Offa,,Igboidun,Igbo-Idun,,1,1,CIESIN,2026-06-30,37,,0
+156,Nigeria,NGA,Kwara,KW,Offa,,Ojomo Central A,"Ojomu Central A, Ojomu Ca, Ojomu Central 1",,1,1,CIESIN,2026-06-30,0,,0
+157,Nigeria,NGA,Kwara,KW,Offa,,Ojomo Central B,"Ojomu Cb, Ojomu Central 11, Ojomo Central 2, Ojomo Central II",,1,1,CIESIN,2026-06-30,1,,0
+158,Nigeria,NGA,Kwara,KW,Offa,,Ojomu North West,"Ojomu North N West, Ojomu North/North West, Ojomu Nnw",,1,1,CIESIN,2026-06-30,15,,0
+159,Nigeria,NGA,Kwara,KW,Offa,,Ojomu South East,Ojomu Se,,1,1,CIESIN,2026-06-30,6,,0
+160,Nigeria,NGA,Kwara,KW,Offa,,Shawo Central,Shawo C,,1,1,CIESIN,2026-06-30,0,,0
+161,Nigeria,NGA,Kwara,KW,Offa,,Shawo South East,"Shawo SE, Shawo Se, Shawo Southeast",,1,1,CIESIN,2026-06-30,3,,0
+162,Nigeria,NGA,Kwara,KW,Offa,,Shawo South West,"Shawo SW, Shawo Sw",,1,1,CIESIN,2026-06-30,15,,0
+163,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Aiyedun,"Ayedun 1, Ayedun",,1,1,CIESIN,2026-06-30,7,,0
+164,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Ekan,,,1,1,CIESIN,2026-06-30,7,,0
+165,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Idofin Odoashe,"Idofian Odo Ashe, Idofin Odo - Ashe, Idofin/Odo-Ashe, Idofin Odo Ashe",,1,1,CIESIN,2026-06-30,220,,0
+166,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Idofin/Igbana I,"Idofian Igbana 1, Idofin Igbana 1, Igbana 1, Idofin Igbona 1",,1,1,CIESIN,2026-06-30,40,,0
+167,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Idofin/Igbana II,"Idofin Igbona 2, Idofian Igbana 2, Igbana 2, Idofin Igbana 11",,1,1,CIESIN,2026-06-30,10,,0
+168,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Ilale/Erin/Imoji,"Imoji, Iliale/Imoji/Erin-Mope, Erinmope, Ilale /Erin/Imoji, Ilale/Erinmope/Imoji, Imoji/Ilale/Erinmope, Ilale, Ilale/Imoji/Erinmope, Ilale/Imoji/ Erinmope",Ilale /Erin/Imoji,1,1,CIESIN,2026-06-30,11,,0
+169,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Iloffa,,,1,1,CIESIN,2026-06-30,15,,0
+170,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Imade/Egosi,"Imode/Egosi, Imode/Igosi, Egosi/Imode",,1,1,CIESIN,2026-06-30,16,,0
+171,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Odo-Owa I,Odo - Owa 1,,1,1,CIESIN,2026-06-30,27,,0
+172,Nigeria,NGA,Kwara,KW,Oke Ero,"Oke - Ero, Oke-Ero",Odo-Owa II,"Odo-Owa 11, Odo - Owa 2",,1,1,CIESIN,2026-06-30,28,,0
+173,Nigeria,NGA,Kwara,KW,Oyun,,Aho,"Inaja/Ahogbada, Ahogbada",,1,1,CIESIN,2026-06-30,42,,0
+174,Nigeria,NGA,Kwara,KW,Oyun,,Erin-North,"Erin North, Erin Ile North, Erin-Ile North, Erinile North",Erin North,1,1,CIESIN,2026-06-30,68,2,2
+175,Nigeria,NGA,Kwara,KW,Oyun,,Erin-South,"Erin South, Erin Ile South, Erin-Ile South",Erin South,1,1,CIESIN,2026-06-30,27,,0
+176,Nigeria,NGA,Kwara,KW,Oyun,,Igbomma,"Igbonna, Igbona",,1,1,CIESIN,2026-06-30,39,,0
+177,Nigeria,NGA,Kwara,KW,Oyun,,Igosun,,,1,1,CIESIN,2026-06-30,25,,0
+178,Nigeria,NGA,Kwara,KW,Oyun,,Ijagbo,,,1,1,CIESIN,2026-06-30,29,,0
+179,Nigeria,NGA,Kwara,KW,Oyun,,Ikotun-Kwara,Ikotun,,1,1,CIESIN,2026-06-30,114,,0
+180,Nigeria,NGA,Kwara,KW,Oyun,,Ilemoma,Ilemona,,1,1,CIESIN,2026-06-30,38,,0
+181,Nigeria,NGA,Kwara,KW,Oyun,,Ipee,,,1,1,CIESIN,2026-06-30,42,,0
+182,Nigeria,NGA,Kwara,KW,Oyun,,Ira,Irra,,1,1,CIESIN,2026-06-30,27,,0
+183,Nigeria,NGA,Kwara,KW,Oyun,,Ojoku,,,1,1,CIESIN,2026-06-30,63,,0
+184,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Kpada I,,,1,1,CIESIN,2026-06-30,565,,0
+185,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Kpada II,Kpada 11,,1,1,CIESIN,2026-06-30,834,,0
+186,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Kpada III,Kpada 111,,1,1,CIESIN,2026-06-30,397,,0
+187,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Lade I,,,1,1,CIESIN,2026-06-30,328,,0
+188,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Lade II,Lade 11,,1,1,CIESIN,2026-06-30,432,,0
+189,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Lade III,Lade 111,,1,1,CIESIN,2026-06-30,371,,0
+190,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Pategi I,Patigi 1,,1,1,CIESIN,2026-06-30,10,,0
+191,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Pategi II,"Patigi 11, Patigi 2",,1,1,CIESIN,2026-06-30,3,,0
+192,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Pategi III,"Patigi 3, Patigi 111, Patigi III",,1,1,CIESIN,2026-06-30,12,,0
+193,Nigeria,NGA,Kwara,KW,Pategi,Patigi,Pategi IV,"Patigi 4, Patigi 1 V",,1,1,CIESIN,2026-06-30,115,,0
