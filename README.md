@@ -43,3 +43,12 @@ Learn. Build. Collaborate. Transform.
 - [x] Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 - [x] Week 7: analyse.py read wards.csv, converts each area and classifies each ward.
 - [x] Week 8: inspect_data.py. Summarized wards area_sqkm and schools per ward in count in my kwara_wards data.
+- [x] Week 9: summary.py. Refactored my week 8 for a better code structure and readability.
+
+### Month 2 Reflection.
+
+- [x] I understood the difference and usage of print and return.
+- [x] Slowly i am starting to understand the importance of indentation because i encountered an indentation bug which i am able to debugged.
+- [x] While still fuggy, i am trying to understand how to refactor code properly using the right syntaxes.
+- [x] My capstone summarised my month 1 data which include the values of the kwara wards area in sqkm for each lga and the schools count within some of the wards.
+      
