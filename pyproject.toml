@@ -1,0 +1,21 @@
+[project]
+name = "geodev-lab-projects-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Abdulkareem Balikis", email = "balikis.a.abdulkareem@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "geopandas>=1.2.0",
+    "matplotlib>=3.11.2",
+    "rasterio>=1.5.2",
+]
+
+[project.scripts]
+geodev-lab-projects-1 = "geodev_lab_projects_1:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
