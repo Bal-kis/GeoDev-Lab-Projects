@@ -52,3 +52,6 @@ Learn. Build. Collaborate. Transform.
 - [x] While still fuggy, i am trying to understand how to refactor code properly using the right syntaxes.
 - [x] My capstone summarised my month 1 data which include the values of the kwara wards area in sqkm for each lga and the schools count within some of the wards.
       
+## Month 3: geospatial python and automation
+
+-[x] Week 10: GeoPandas loaded, checked, joined and mapped by my kwara schools in each wards data in code.
