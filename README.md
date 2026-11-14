@@ -54,4 +54,5 @@ Learn. Build. Collaborate. Transform.
       
 ## Month 3: geospatial python and automation
 
--[x] Week 10: GeoPandas loaded, checked, joined and mapped by my kwara schools in each wards data in code.
+- [x] Week 10: GeoPandas loaded, checked, joined and mapped by my kwara schools in each wards data in code.
+- [x] Week 11: CRS and spatial operations. Reproject to EPSG:32631 and measured the area of kwara wards and buffer distance within the wards.
