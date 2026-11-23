@@ -56,3 +56,4 @@ Learn. Build. Collaborate. Transform.
 
 - [x] Week 10: GeoPandas loaded, checked, joined and mapped by my kwara schools in each wards data in code.
 - [x] Week 11: CRS and spatial operations. Reproject to EPSG:32631 and measured the area of kwara wards and buffer distance within the wards.
+- [x] Week 12: Raster. Computed NDVI range between -0.357 to 0.726 and mean NDVI of 0.301 for my ilorin study area. Summarised it per ward polygon. 
